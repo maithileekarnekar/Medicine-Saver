@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MedicineSaver</string>
+    <string name="add_medicine">add_medicine</string>
+    <string name="medicine_name">Medicine Name</string>
+    <string name="uses">Uses</string>
+    <string name="storage_condition">Storage Condition</string>
+    <string name="side_effects">Side Effects</string>
+    <string name="save">Save</string>
+    <string name="medicineimage">MedicineImage</string>
+    <string name="delete" />
+    <string name="editcontact">editcontact</string>
+    <string name="edit">edit</string>
+</resources>
